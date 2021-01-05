@@ -1,0 +1,57 @@
+[
+  {
+    "name":"Web Design I",
+    "shortname":"IMED_1316",
+    "bio":"Instruction in web page design and related graphic design issues including mark-up languages, web sites, and browsers."
+  },
+  {
+    "name":"Interface Design",
+    "shortname":"IMED_1341",
+    "bio":"Skill development in the interface design process including selecting interfaces that are meaningful to users and relative to a project's content and delivery system."
+  },
+  {
+    "name":"Interactive Digital Media I",
+    "shortname":"IMED_1345",
+    "bio":"Exploration of the use of graphics and sound to create interactive multimedia applications and/or animations using industry standard authoring software."
+  },
+  {
+    "name":"Writing for Digital Media",
+    "shortname":"IMED_1359",
+    "bio":"Written communication for digital media environments including professional websites or other digital content."
+  },
+  {
+    "name":"Introduction to Digital Media",
+    "shortname":"IMED_1401",
+    "bio":"A survey of the theories, elements, and hardware/software components of digital media. Emphasis on conceptualizing and producing effective digital media presentations."
+  },
+  {
+    "name":"Cooperative Education - Web Page, Digital/Multimedia and Information Resources Design",
+    "shortname":"IMED_2280",
+    "bio":"Career-related activities encountered in the student's area of specialization offered through an individualized agreement among the college, employer, and student. Under the supervision of the college and the employer, the student combines classroom learning with work experience. Includes a lecture component."
+  },
+  {
+    "name":"Internet Commerce",
+    "shortname":"IMED_2309",
+    "bio":"An overview of the Internet as a marketing and sales tool with emphasis on developing a prototype for electronic commerce. Topics include dynamic data integration, data collection, and on-line transactions."
+  },
+  {
+    "name":"Portfolio Development",
+    "shortname":"IMED_2311",
+    "bio":"Preparation and enhancement of portfolio to meet professional standards, development of presentation skills, and improvement of job-seeking techniques. This is a capstone course."
+  },
+  {
+    "name":"Web Design II",
+    "shortname":"IMED_2315",
+    "bio":"A study of mark-up language advanced layout techniques for creating web pages. Emphasis on identifying the target audience and producing web sites according to accessibility standards, cultural appearance, and legal issues."
+  },
+  {
+    "name":"Interactive Digital Media II",
+    "shortname":"IMED_2345",
+    "bio":"Instruction in the use of scripting language to create interactive digital media applications."
+  },
+  {
+    "name":"Digital Media Programming",
+    "shortname":"IMED_2351",
+    "bio":"Advanced topics in digital media programming including custom scripts for data tracking. Emphasis on developing digital media programs customized to the client’s needs."
+  }
+]

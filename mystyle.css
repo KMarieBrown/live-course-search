@@ -1,0 +1,108 @@
+body {
+	background-color: #ccc;
+}
+
+h1 {
+	margin: 0 auto;
+	text-align: center;
+	padding: 20px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: purple;
+}
+
+#searchbar {
+	margin: 0 auto;
+	text-align: center;
+	background: #ababab;
+	padding: 10px;
+	width: 30%;
+	border-radius: 10px 10px 0 0;
+	color: whitesmoke;
+}
+
+#searchbar label {
+	font: bold 1.4em Arial;
+	text-transform: uppercase;
+	color: #0a3678;
+	padding-bottom: 5px;
+}
+
+#searchbar p {
+	margin: 0;
+	line-height: 1em;
+	padding: 5px 0;
+}
+
+#search {
+	max-width: 80%;
+	text-align: center;
+	border-radius: 10px;
+}
+
+#update {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	width: 70%;
+	margin: 0 auto;
+	border-top: 1px dotted #a19191;
+}
+
+#update ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#update ul li {
+	width: 100%;
+	height: 120px;
+	padding: 0 20px;
+	background: #eee;
+	padding-bottom: 10px;
+	overflow: hidden;
+	border-bottom: 1px dotted #a19191;
+
+	-webkit-animation: animates 1s;
+
+	-webkit-transition: height 0.3s ease-out;
+}
+
+#update li:hover {
+	background: #fff;
+	min-height: 110px;
+	height: 425px;
+	overflow: visible;
+}
+
+#update h2 {
+	margin: 0;
+	padding: 0;
+	font-size: 1.2em;
+	padding-bottom: 5px;
+	padding-top: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: purple;
+	border-bottom: 1px dotted purple;
+	margin-bottom: 10px;
+}
+
+#update img {
+	float: left;
+	margin-right: 10px;
+	width: 80px;
+}
+
+@keyframes animates {
+	0% {
+		opacity: 0.3;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+/* For iPad size and bigger*/
+@media only screen and (min-width: 768px) {
+	#update li:hover {
+		height: 200px;
+	}
+}
